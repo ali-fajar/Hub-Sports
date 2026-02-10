@@ -1,0 +1,400 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA", SPORTSTARS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",SPORTSTARS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="♦️ SPORTS ♦️ INDONESIA",SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",FIGHT SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",BEIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/772/198772-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",BEIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",BEIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",BEIN SPORTS 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="♦️ SPORTS ♦️ INDONESIA",BEIN SPORTS 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch7Q6pSZyKbw5YoCiIBwxP70PEmHFxEfGMd9LDxpZg&s=10", FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://fubo-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpch7Q6pSZyKbw5YoCiIBwxP70PEmHFxEfGMd9LDxpZg&s=10", FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://fubo-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA0c6w2U5KWnpv2n8ENfr_4jcP5ZaC-aQtroYx5DsqCGjY5mUNn8TKOyc&s=10", FS PREMIUM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGD4JhJbLo13qJ2kQjAYZrIxwF0RHh5Lh7n1cWps_bXDnqve5bo37Tucw&s=10", PRIMER VIDEO SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://prime-video-sports-sultantv.bintangstream513.workers.dev/sin-nitro/live/dash/enc/1xsggbtjku/out/v1/bfd93216daf6417298bfcc7d3015d823/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ INDIA" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v11.png", FANCODE 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ INDIA" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v11.png", FANCODE 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://fancode-sultantv.bintangstream513.workers.dev/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ INDIA" tvg-logo="https://www.fancode.com/skillup-uploads/fc-web/home-page-new-arc/hero-image/v1/hero-image-mweb-v11.png", FANCODE 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0gXMlXQEQ56PffL5bJPe1wU4qVFoLLPCih0ZJe83nqZb1fJYQbRVGAvU&s=10", SKY SPORTS BUNDESLIGA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://sky-bundesliga-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN SPORTS 1 ENG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://bein-sports-engglis-sultantv.bintangstream513.workers.dev/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN SPORTS 3 ENG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://bein-sports-engglis-sultantv.bintangstream513.workers.dev/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ SPANYOL" tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/6/0/5/1316605_screenshot20200107at14.59.24_906397.png", LALIGA TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ IRELAND" tvg-logo="https://i.ytimg.com/vi/nj8K2Nhbffg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgZSgjMA8=&rs=AOn4CLDRA_GTu3R6x6lJpZLRgoebNC__rA", PREMIER SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ GERMANY" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70", SPORTS DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5L9gEf2CgucM8Ti2FgELcnppv_6jFgYtZyFeBv-Wb_A&s=10", CBS GOLAZO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a122aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORT 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a129aivottlinear-a.akamaihd.net/OTTB/bom-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdFT5NSI-w_qJ9cEe4J0CZ_F_sFAXdasdTFE82RGiyQ&s=10", ONE FIGHT NIGHT 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://static-www.adweek.com/wp-content/uploads/2025/02/Fox-Corp-logo-Fox-Corp.png?w=1240", FOX USA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/xr97sgrflz/out/v1/e4a043f7cbcf4d308e7c5439c320c8aa/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsDzy392V0hluT7g7cmSwm5S2OoHqSSWFVjSKHgEv99VceEx9r6msTVlMA&s=10", FOX DESPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://thumbor.prod.vidiocdn.com/3MGm2necbhhx96iLp19DniVAOV4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7648/fox-1-bead8c.jpg", FOX SPORT 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://thumbor.prod.vidiocdn.com/QaI-WWricX4gf3tEi-yPYejQljc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7649/fox-2-91f85d.jpg", FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AFGHANISTAN" tvg-logo="https://thumbs.dreamstime.com/b/rta-logo-rta-letter-rta-letter-logo-design-initials-rta-logo-linked-circle-uppercase-monogram-logo-rta-typography-394765761.jpg", RTA 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AFGHANISTAN" tvg-logo="https://thumbs.dreamstime.com/b/rta-logo-rta-letter-rta-letter-logo-design-initials-rta-logo-linked-circle-uppercase-monogram-logo-rta-typography-394765761.jpg", RTA 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AFGHANISTAN" tvg-logo="https://thumbs.dreamstime.com/b/rta-logo-rta-letter-rta-letter-logo-design-initials-rta-logo-linked-circle-uppercase-monogram-logo-rta-typography-394765761.jpg", RTA 3
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AFGHANISTAN" tvg-logo="https://thumbs.dreamstime.com/b/rta-logo-rta-letter-rta-letter-logo-design-initials-rta-logo-linked-circle-uppercase-monogram-logo-rta-typography-394765761.jpg", RTA 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN SPORTS 2 ENG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN ♦️ SPORTS ♦️ RUSIA 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMIAIstR8QnbhKn7uXMakhI-ilnVz7jEOD4aRLzThq01tyDRiR5V_Mpjw&s=10", TSN 1 SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2qt1S36M9PYWzKdmZM_rhtlmFw6jgcKazWfdLNM_TmIONxtfIfwVQPXU&s=10", TSN 2 SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLsrMaq3wwozjUvcvFbeliuMhzt2VSsyzRUBh2DRcVQ&s=10", TSN 3 SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LKaK49pLq-_ErevZ-Ut-hNhmXvsnudL7-iynXVUMexBGWz0wlyAG-0LV&s=10", TSN 4 SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_GKt6B2ddFzEaj-C6Kpbix5DaMU6ng72G81GXvxhCFuG5z_PfH2BobJYE&s=10", TSN 5 SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ SLOVAKIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUr9sEI6LOxIfLlN5b1JMzPMoG7Ig5ENdslz1OXkXkQ&s=10", NOVA SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ SLOVAKIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKK-uheO9nnVrSHqI_G-VBLrQON9tBrtihRt6nY-ExMEJGPWmd8x4bnA&s=10", NOVA SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png", FS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png", FS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://tsn-sports-sultantv.bintangstream513.workers.dev/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ INDIA" tvg-logo="https://cdn.aptoide.com/imgs/f/2/5/f2570ffcbce276a93baf8dd15009347e_fgraphic.jpg", WILLOW SPORTS FHD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ INDIA" tvg-logo="https://cdn.aptoide.com/imgs/f/2/5/f2570ffcbce276a93baf8dd15009347e_fgraphic.jpg", WILLOW SPORTS HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6y1hlnmuIDDTTtdAEDtwvqy_pypZEt_nvmwB241ZXAw&s=10", SHARJAH SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4MdsuD2pZTTwFINbZL_lqhzRiHWIObE0mbznCbz2VQ&s=10", ABU DHABI SPORTS 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4MdsuD2pZTTwFINbZL_lqhzRiHWIObE0mbznCbz2VQ&s=10", ABU DHABI SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/adbe07177870037.64df2ccab9a44.png", KUWAIT SPORTS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ IRELAND" tvg-logo="https://i.ytimg.com/vi/ZXGgqMCKBg8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCpkukj43JX5yNXYywPcMv6VFmtEw", PREMIER SPORTS 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,w_1100,h_550,x_0,y_81/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv", REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="PSN1.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN1.380a638f.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+
+#EXTINF:-1 tvg-id="PSN2.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+
+#EXTINF:-1 tvg-id="PSN2.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+
+#EXTINF:-1 tvg-id="PSN4.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN4.ca979c65.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.122 Mobile Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="PSN5.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN5.b3e98409.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.122 Mobile Safari/537.36
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
