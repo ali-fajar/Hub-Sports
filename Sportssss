@@ -1187,12 +1187,27 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukaspor/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sky Sport1 NZ FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" group-title="ALL SPORTS🔥",Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+
+#EXTINF:-1 tvg-name="Sky Sport2 NZ FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ilzqfu1642606956.png" group-title="ALL SPORTS🔥",Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+
+#EXTINF:-1 tvg-name="Sky Sport6 NZ FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ngykyk1642607005.png" group-title="ALL SPORTS🔥",Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+
+#EXTINF:-1 tvg-name="Sky Sport7 NZ FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3ps7hu1642607021.png" group-title="ALL SPORTS🔥",Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+
+
+#EXTINF:-1 tvg-name="Sky Sport8 NZ FHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="ALL SPORTS🔥",Sky Sport8 NZ FHD
+https://7pal.short.gy/skyspt8nz
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="ALL SPORTS🔥",FS1 US
-http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+#http://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="ALL SPORTS🔥",FS2 US
-http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
+#http://fl7.moveonjoy.com/FOX_SPORTS_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Event1" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbV96-5MPXYKOH0MLQUnQA24hxqD2Mik5_29-WvDa3I3v79rRDOjuC31E&s=10" group-title="LIVE NOBAR🔥", EVENT 1
 https://stream23.streammania.cloud/proxy/stream.m3u8?tkn=aHR0cHM6Ly9saXZlY2RuLWJwLWxpdmVzdHJlYW0ubGluZXdnZW4ueHl6L3N0cmVhbS8xL2luZGV4Lm0zdTg
