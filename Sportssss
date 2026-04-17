@@ -317,7 +317,7 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena
 
 #EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDmYrE1jDo-ap49u731tS9rw6xoDlcOC6yVIf5Y-_jiQ&s=10", ASTRO ARENA 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena2
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=arena-2
 
 #EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/644eaba65a543_A0u6-480x320.jpg", ASTRO SPOTV 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
