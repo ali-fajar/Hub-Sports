@@ -255,6 +255,19 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=videoland-max-tv
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=videoland-japan-channel
 
+#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5a214c5249a75_DKEB-480x320.png", HBO HD TW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo
+
+#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/68937a1fa102b_37U1-480x320.png", HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-signature-taiwan
+
+#EXTINF:-1 group-title="♦️ TAIWAN ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wszw-1-480x320.png", STARMOVIES TW
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=star-movies-chinese
+
+
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN SPORTS 1 AU
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
