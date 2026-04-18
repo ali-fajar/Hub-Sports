@@ -340,6 +340,32 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-sports-plus
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=rtm-sports-hd
 
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/iqiyi-480x320.png", ASTRO IQIYI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=iqiyi
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5b3df32c37b0b_2c1C-480x320.jpg", ASTRO CCM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial-classic
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5decd54011473_yII5-480x320.png", ASTRO CELESTIAL MOVIE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial-movies-hd
+
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/640080a3bebdf_2Zm2-480x320.jpg", ASTRO KPLUS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astrol-kplus
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5f5238eb84441_i5BZ-480x320.png", ASTRO NATGEO WILD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=natgeo-wild-hd
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5ecf924651f26_c7eN-480x320.png", ASTRO ANIMAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=animal-planet-eng
+
+
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,18 +452,13 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMIAIstR8QnbhKn7uXMakhI-ilnVz7jEOD4aRLzThq01tyDRiR5V_Mpjw&s=10", TSN 1 SPORTS
+#EXTINF:-1 group-title="♦️ KOREA ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/10/sbs-480x320.png", SBS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-400400https://bintangstreaming.my.id/all_clearkey/clearkey.jsonhttps://bintangstreaming.my.id/all_clearkey/clearkey.json
-#https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=sbs
 
-#EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2qt1S36M9PYWzKdmZM_rhtlmFw6jgcKazWfdLNM_TmIONxtfIfwVQPXU&s=10", TSN 2 SPORTS
+#EXTINF:-1 group-title="♦️ KOREA ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/10/kbs2-480x320.png", KBS 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-#https://tsn-sports-sultantv.bintangstream513.workers.dev/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=kbs2
 
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ CANADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLsrMaq3wwozjUvcvFbeliuMhzt2VSsyzRUBh2DRcVQ&s=10", TSN 3 SPORTS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
