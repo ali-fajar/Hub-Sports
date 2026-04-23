@@ -365,6 +365,15 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=natgeo-wild-hd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=animal-planet-eng
 
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5a2166dcd0c33_p0em-480x320.png", ASTRO AXN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=axn-hd
+
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5a216594043cc_iIRr-480x320.png", ASTRO HBO HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hd
+
 
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
