@@ -375,6 +375,47 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=axn-hd
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hd
 
 
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/64e03ea042dbb_AX33-480x320.png", ASTRO HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-signature
+
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6624d76b20337_4k7x-480x320.png", ASTRO HBO HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hits
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6678f8fdc31dc_1E9W-480x320.jpg", ASTRO DREAMWORKS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=dreamworks
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6720a82c628f8_iNkO-480x320.png", ASTRO LOL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-lol
+
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/667b78d3712a9_fFF9-480x320.jpeg", ASTRO SIAR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=siar
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6720a850dd537_P9oK-480x320.png", ASTRO RUSI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=astro-rusi
+
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/63e5c4febde6b_bXAg-480x320.jpg", ASTRO AOD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=aod
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/62690de5ae919_5d33-480x320.jpg", ASTRO AWASOME
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=awesome-tv
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/688dc1e138652_KC5L-480x320.jpg", ASTRO SHOWCASE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=showcase
+
+
+
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
