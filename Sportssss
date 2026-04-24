@@ -458,6 +458,18 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
 
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5e773729d75f1_9N5b-480x320.png", ASTRO NICKLEDEON
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=nickelodeon
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5e773774ec65b_g2p5-480x320.png", ASTRO NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=nick-jr
+
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5a2158e819c10_pwud-480x320.png", ASTRO CN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=cartoon-network
+
 
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
