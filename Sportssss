@@ -470,6 +470,10 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=nick-jr
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=cartoon-network
 
+#EXTINF:-1 group-title="♦️ ASTRO ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/64007ddb953e7_gcyW-480x320.jpg", ASTRO BOLLYONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=bollyone
+
 
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ UNITED KINGDOM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTZzQZHjcvUz6N0aP50DyBHCC2ZqdB-ROneJdpPGvbJQ&s=10", TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
@@ -545,6 +549,11 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=jsport-3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://rakyattv.my.id/donate/stream.php/.m3u8?id=jsport-4
 
+#EXTINF:-1 group-title="♦️ SPORTS ♦️ JEPANG" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/11/tvasahi-480x320.png", TV ASAHI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv-asahi
+
+
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ AUSTRALIA" tvg-logo="https://play-lh.googleusercontent.com/YG8wDxX96WM1KYl7IuQA0gyoiEYj7OyAon2Z_2javA0mMckRPLoNTXx5u0fe3iWL1nc", BEIN SPORTS 2 AU
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -619,23 +628,17 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=kbs2
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
 #https://cors-tntsports-sultantv.bintangstream513.workers.dev/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
 
-#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6y1hlnmuIDDTTtdAEDtwvqy_pypZEt_nvmwB241ZXAw&s=10", SHARJAH SPORTS
+#EXTINF:-1 group-title="♦️ INDIA ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5d2ae78b2bc27_e9E9-480x320.png", HISTORY TAMIL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=history-tamil
 
-#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4MdsuD2pZTTwFINbZL_lqhzRiHWIObE0mbznCbz2VQ&s=10", ABU DHABI SPORTS 1
+#EXTINF:-1 group-title="♦️ INDIA ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5d2af69bb9249_fbAn-480x320.png", NATGEO TAMIL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=natgeo-tamil
 
-#EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4MdsuD2pZTTwFINbZL_lqhzRiHWIObE0mbznCbz2VQ&s=10", ABU DHABI SPORTS 2
+#EXTINF:-1 group-title="♦️ INDIA ♦️" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5d2af6e3dec12_1y8U-480x320.jpg", NATGEO WILD TAMIL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=natgeo-wild-tamil
 
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ ARABIC" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/adbe07177870037.64df2ccab9a44.png", KUWAIT SPORTS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
