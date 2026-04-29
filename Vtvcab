@@ -28,70 +28,40 @@ https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 #https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png",VTV2 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV2_HD/manifest.mpd
+https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png",VTV3 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/3/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV4_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/108/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png",VTV5 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV5_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/110/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcantho" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png",VTV Cần Thơ HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV6_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png",VTV7 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV7_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/6/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png",VTV8 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a685e226374dc7b756a12c270744b5:95504c377fb04cab81ba5e955f4ae189
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV8_HD/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/115/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png",VTV9 HD
-#93857193760b4aa882db3880cf07ecaf:0241398b0816b126f4e5b715f993b6c6,263edeb9da2e453787a08321717fa076:f56b38d09ef049c3afea71314b0f0f86
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93857193760b4aa882db3880cf07ecaf:0241398b0816b126f4e5b715f993b6c6
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vietanhtv.id.vn/tv360/8/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_640_360.png",Vietnam Today HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-https://livevlisctcdnw.seenow.vn/livesnv2/VIETNAMTODAY/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 # --- Nhóm HTV ---
 
