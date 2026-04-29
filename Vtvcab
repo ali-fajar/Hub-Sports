@@ -21,77 +21,77 @@ https://livevlisctcdnw.seenow.vn/mean/ANVIEN/manifest.mpd
 
 # --- Nhóm VTV ---
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (VTV Prime)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (VTV Prime)
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (On Plus)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (On Plus)
 #https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png",VTV2 HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png",VTV2 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 
-#EXTINF:-1 tvg-id="vtv3hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png",VTV3 HD
+#EXTINF:-1 tvg-id="vtv3hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/3/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv4hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 HD
+#EXTINF:-1 tvg-id="vtv4hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/108/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png",VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png",VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/110/index.m3u8
 
-#EXTINF:-1 tvg-id="vtvcantho" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png",VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtvcantho" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png",VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
-#EXTINF:-1 tvg-id="vtv7hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png",VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822556953/09c028dc8443_640_360.png",VTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/6/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv8hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_640_360.png",VTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/115/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv9hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822568115/7f3b077aabfc_640_360.png",VTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/8/index.m3u8
 
 
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_640_360.png",Vietnam Today HD
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_640_360.png",Vietnam Today HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=9951
 
 # --- Nhóm HTV ---
 
-#EXTINF:-1 tvg-id="htv1" tvg-group-logo="" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_640_360.png",HTV1 HD
+#EXTINF:-1 tvg-id="htv1" tvg-group-logo="" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_640_360.png",HTV1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HTV1/manifest.mpd
 
-#EXTINF:-1 tvg-id="htv2hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_640_360.png",HTV2 HD | Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_640_360.png",HTV2 HD | Vie Channel
 https://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
 
-#EXTINF:-1 tvg-id="htv3" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_640_360.png",HTV3 HD
+#EXTINF:-1 tvg-id="htv3" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_640_360.png",HTV3 HD
 https://liveh12.vtvprime.vn/hls/HTV3/03.m3u8
 
-#EXTINF:-1 tvg-id="htvkey" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d_640_360.png", HTV Keys HD
+#EXTINF:-1 tvg-id="htvkey" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/01/02/1680290329210/3e3b1af7a50d_640_360.png", HTV Keys HD
 https://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",HTV7 HD
 https://liveh12.vtvprime.vn/hls/HTV7HD/03.m3u8
 
-#EXTINF:-1 tvg-id="htv9hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",HTV9 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png",HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png",HTV Thể Thao HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -100,19 +100,19 @@ https://livevlisctcdnw.seenow.vn/mean/HTV_THETHAO/manifest.mpd
 
 # --- Nhóm HTVC ---
 
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png", HTVC Ca nhạc HD
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png", HTVC Ca nhạc HD
 https://liveh12.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
 
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_640_360.png", HTVC Gia đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_640_360.png", HTVC Gia đình HD
 https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
 
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png", HTVC Du lịch Cuộc sống HD
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png", HTVC Du lịch Cuộc sống HD
 https://liveh12.vtvprime.vn/hls/HTVCDLCS/03.m3u8
 
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png", HTVC Phụ nữ HD
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png", HTVC Phụ nữ HD
 https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
 
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_640_360.png", HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_640_360.png", HTVC Thuần Việt HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,178 +121,178 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HTVC_THUAN_VIET_HD/manifest.mpd
 
 # --- Nhóm VTVcab ---
 
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-group-logo="https://bom.so/s7iUR2" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png",ON Vie Giải trí HD
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-group-logo="https://bom.so/s7iUR2" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_640_360.png",ON Vie Giải trí HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e1c6077ab034d3b9f02d0ae43825eec:c40b6a2c7b94cbd4958b1d93d9b23aed
 https://livevlisctcdnw.seenow.vn/livesnv2/GIAITRI_TV_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onphimviet" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_640_360.png",ON Phim Việt HD
+#EXTINF:-1 tvg-id="onphimviet" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_640_360.png",ON Phim Việt HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7417db88928243fda4e03596bbd19a27:eebb689de1191ae1b207d32f0d5ca9fe
 https://livevlisctcdnw.seenow.vn/livesnv2/PHIM_VIET/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_640_360.png",ON Sports HD (VTVPrime)
+#EXTINF:-1 tvg-id="onsports" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_640_360.png",ON Sports HD (VTVPrime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsports" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports HD (On Plus)
+#EXTINF:-1 tvg-id="onsports" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports HD (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onmovies" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png",On Movies HD
+#EXTINF:-1 tvg-id="onmovies" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png",On Movies HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f571f6db60340e8a3cc3a5395d21611:553752778fe0d3ea79d434bf5f867f26
 https://livevlisctcdnw.seenow.vn/livesnv2/VAN_HOA/manifest.mpd
 
-#EXTINF:-1 tvg-id="onechannel" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_640_360.png",ON E- Channel HD
+#EXTINF:-1 tvg-id="onechannel" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_640_360.png",ON E- Channel HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04c8d53c9d4f48a78efdfd74888ffc38:8dfc9ea0293e3b94e5f44b8d9f2fac9f
 https://livevlisctcdnw.seenow.vn/livesnv2/E_CHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+ HD (VTV Prime)
+#EXTINF:-1 tvg-id="onsportsplus" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+ HD (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+ HD (On Plus)
+#EXTINF:-1 tvg-id="onsportsplus" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_640_360.png",ON Sports+ HD (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ono2tv" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_640_360.png",On O2TV HD
+#EXTINF:-1 tvg-id="ono2tv" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_640_360.png",On O2TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b5a915f267e417085e0f68200395a41:5544d7c1e523a53d404ab2823132ee7e
 https://livevlisctcdnw.seenow.vn/livesnv2/O2_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="onbibi" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_640_360.png",On BiBi HD
+#EXTINF:-1 tvg-id="onbibi" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_640_360.png",On BiBi HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4196ec8c5fca4f1cb50e8f2668c63b10:a52178cddaf1b8726aadf6fa697b5bf4
 https://livevlisctcdnw.seenow.vn/livesnv2/BIBI/manifest.mpd
 
-#EXTINF:-1 tvg-id="oninfotv" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_640_360.png",ON Info HD
+#EXTINF:-1 tvg-id="oninfotv" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_640_360.png",ON Info HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39425f1a9f7f4db985b5e7b2e65e4208:63e3aad2bc5bed77e59724ba8d2e94f0
 https://livevlisctcdnw.seenow.vn/livesnv2/INFO_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="oncine" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_640_360.png",ON Cine HD
+#EXTINF:-1 tvg-id="oncine" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_640_360.png",ON Cine HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/FILM_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="onstyle" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_640_360.png",ON Style HD
+#EXTINF:-1 tvg-id="onstyle" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_640_360.png",ON Style HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=414a288afe3d4f3985407d9613ec21eb:31d12c6d561e208f4c79b4a6c280dd5b
 https://livevlisctcdnw.seenow.vn/livesnv2/STYLE_TV_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onhomeshopping" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/172829444231/0d570e6fc19e_640_360.png",ON Home Shopping HD
+#EXTINF:-1 tvg-id="onhomeshopping" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/172829444231/0d570e6fc19e_640_360.png",ON Home Shopping HD
 https://livevlisctcdnw.seenow.vn/mean/VTVCAB13/manifest.mpd
 
-#EXTINF:-1 tvg-id="onmusic" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",On Music HD
+#EXTINF:-1 tvg-id="onmusic" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",On Music HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e518bbb7e8614a7da4d8d974d62486da:b509751f1fa3c676f482cde476670dd6
 https://livevlisctcdnw.seenow.vn/livesnv2/M_CHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="onfootball" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png",ON Football HD (VTV Prime)
+#EXTINF:-1 tvg-id="onfootball" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png",ON Football HD (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 https://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onfootball" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png",ON Football HD (On Plus)
+#EXTINF:-1 tvg-id="onfootball" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_640_360.png",ON Football HD (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
-#EXTINF:0 tvg-id="ontrending" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_640_360.png",ON TRENDING TV HD
+#EXTINF:0 tvg-id="ontrending" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_640_360.png",ON TRENDING TV HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=765c826c381e4d58849784bb206c8e90:2970317ebf86d70fa11434eab4c59c5d
 https://livevlisctcdnw.seenow.vn/livesnv2/YEAH1_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png",ON Sports News HD (VTV Prime)
+#EXTINF:-1 tvg-id="onsportsnews" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png",ON Sports News HD (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onsportsnews" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png",ON Sports News HD (On Plus)
+#EXTINF:-1 tvg-id="onsportsnews" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_640_360.png",ON Sports News HD (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onviedramas" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png",ON Vie Dramas HD
+#EXTINF:-1 tvg-id="onviedramas" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_640_360.png",ON Vie Dramas HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2abb744acd24369943a79635f4fa43a:f674652c13211536e0e21d9ea860ca90
 https://livevlisctcdnw.seenow.vn/livesnv2/D_DRAMAS_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="onvfamily" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_640_360.png",ON V Family HD
+#EXTINF:-1 tvg-id="onvfamily" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_640_360.png",ON V Family HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c01b22c5f5b44d72b9902b33a4c36fb7:8fe81a99e5b1cc891bb9e9f848b6e2e7
 https://livevlisctcdnw.seenow.vn/livesnv2/VFAMILY/manifest.mpd
 
-#EXTINF:-1 tvg-id="onkids" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_640_360.png",On Kids HD
+#EXTINF:-1 tvg-id="onkids" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_640_360.png",On Kids HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c07669233e07416594577b29d60372a6:e8cfcf678750f494312dfcbdaee5132e
 https://livevlisctcdnw.seenow.vn/livesnv2/BIBI_PLUS_clear/manifest.mpd
 
-#EXTINF:-1 tvg-id="onlife" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png",On Life HD 
+#EXTINF:-1 tvg-id="onlife" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png",On Life HD 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca9c781a5ba142f2b03a8028fcecb847:c69c101846413ae8faa8d353c7979121
 https://livevlisctcdnw.seenow.vn/livesnv2/LIFE_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png",On Golf HD (VTV Prime)
+#EXTINF:-1 tvg-id="ongolf" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png",On Golf HD (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a323b53e0864492b0e04c70d591c564:843584bafaf2736c4fd1b76e1eee74d8
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="ongolf" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png",On Golf HD (On Plus)
+#EXTINF:-1 tvg-id="ongolf" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_640_360.png",On Golf HD (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -301,250 +301,250 @@ https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_GOLF_HD/manifest.mpd
 
 # --- Nhóm SCTV ---
 
-#EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
+#EXTINF:-1 tvg-id="sctv1hd" tvg-group-logo="https://bom.so/wJ7RFL" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV1.png",SCTV1 HD (Hài)
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
+#EXTINF:-1 tvg-id="sctv2hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV2.png",SCTV2 HD | TODAY TV
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv3hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png",SCTV3 HD (Kênh thiếu nhi) | SEE TV
+#EXTINF:-1 tvg-id="sctv3hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV3.png",SCTV3 HD (Kênh thiếu nhi) | SEE TV
 https://liveh34.vtvprime.vn/hls/SCTV3/01.m3u8
 
-#EXTINF:-1 tvg-id="sctv4hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV4.png",SCTV4 HD (Let's Việt)
+#EXTINF:-1 tvg-id="sctv4hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV4.png",SCTV4 HD (Let's Việt)
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV6.png",SCTV6 HD (Giải trí thế hệ mới)
+#EXTINF:-1 tvg-id="sctv6hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV6.png",SCTV6 HD (Giải trí thế hệ mới)
 https://liveh34.vtvprime.vn/hls/SCTV6/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv7hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV7.png",SCTV7 HD (Kênh sân khấu)
+#EXTINF:-1 tvg-id="sctv7hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV7.png",SCTV7 HD (Kênh sân khấu)
 https://liveh34.vtvprime.vn/hls/SCTV7/01.m3u8
 
-#EXTINF:-1 tvg-id="sctv8hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV8.png",SCTV8 HD (Kinh tế thị trường)
+#EXTINF:-1 tvg-id="sctv8hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV8.png",SCTV8 HD (Kinh tế thị trường)
 https://liveh34.vtvprime.vn/hls/SCTV8/01.m3u8
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
+#EXTINF:-1 tvg-id="sctv9hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv9hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
+#EXTINF:-1 tvg-id="sctv9hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV9.png",SCTV9 HD (Phim Châu Á)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv10hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV10.png",SCTV10 HD (Huyndai Shopping)
+#EXTINF:-1 tvg-id="sctv10hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV10.png",SCTV10 HD (Huyndai Shopping)
 https://liveh34.vtvprime.vn/hls/SCTV10/01.m3u8
 
-#EXTINF:-1 tvg-id="sctv11hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV11.png",SCTV11 HD (TV Star)
+#EXTINF:-1 tvg-id="sctv11hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV11.png",SCTV11 HD (TV Star)
 https://liveh34.vtvprime.vn/hls/SCTV11/01.m3u8
 
-#EXTINF:-1 tvg-id="sctv12hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV12.png",SCTV12 HD (Du lịch khám phá)
+#EXTINF:-1 tvg-id="sctv12hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV12.png",SCTV12 HD (Du lịch khám phá)
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv13hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV13.png",SCTV13 HD (Phụ nữ & Gia đình)
+#EXTINF:-1 tvg-id="sctv13hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV13.png",SCTV13 HD (Phụ nữ & Gia đình)
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv14hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV14.png",SCTV14 HD (Kênh Phim Việt)
+#EXTINF:-1 tvg-id="sctv14hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV14.png",SCTV14 HD (Kênh Phim Việt)
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (VTV Prime)
+#EXTINF:-1 tvg-id="sctv15hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv15hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (On Plus)
+#EXTINF:-1 tvg-id="sctv15hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV15.png",SCTV15 HD (Thể thao) | S Sport 2 (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/SCTV15HD/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
+#EXTINF:-1 tvg-id="sctv16hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV16.png",SCTV16 HD (Phim nước ngoài)
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 
-#EXTINF:-1 tvg-id="sctv17hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (VTV Prime)
+#EXTINF:-1 tvg-id="sctv17hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (VTV Prime)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV17/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv17hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (On Plus)
+#EXTINF:-1 tvg-id="sctv17hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV17.png",SCTV17 HD (Thể thao & Cuộc sống) | S Sport (On Plus)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 #https://cdnet-cdn-01.onsports.vn/onplus/SCTV17/manifest.mpd
 
-#EXTINF:-1 tvg-id="sctv18hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
+#EXTINF:-1 tvg-id="sctv18hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV18.png",SCTV18 HD
 https://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv19hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV19.png",SCTV19 HD | T Channel
+#EXTINF:-1 tvg-id="sctv19hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV19.png",SCTV19 HD | T Channel
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv20hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV20.png",SCTV20 HD (Kênh ca nhạc)
+#EXTINF:-1 tvg-id="sctv20hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV20.png",SCTV20 HD (Kênh ca nhạc)
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv21hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV21.png",SCTV21 HD (Việt Nam ký ức)
+#EXTINF:-1 tvg-id="sctv21hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV21.png",SCTV21 HD (Việt Nam ký ức)
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png",SCTV22 HD (Thể thao) | S Sport 1
+#EXTINF:-1 tvg-id="sctv22hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTV22.png",SCTV22 HD (Thể thao) | S Sport 1
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTVPTH.png",SCTV Phim Tổng Hợp HD
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/SCTV/SCTVPTH.png",SCTV Phim Tổng Hợp HD
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 # --- Nhóm THVL ---
 
-#EXTINF:-1 tvg-id="vinhlong1hd" tvg-group-logo="https://bom.so/pvcfba" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png",THVL1 HD | Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-group-logo="https://bom.so/pvcfba" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png",THVL1 HD | Vĩnh Long
 https://liveh12.vtvprime.vn/hls/VINHLONG1/03.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_640_360.png",THVL2 HD | Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_640_360.png",THVL2 HD | Vĩnh Long
 https://liveh12.vtvprime.vn/hls/VINHLONG2/03.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_640_360.png",THVL3 HD | Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_640_360.png",THVL3 HD | Vĩnh Long
 https://liveh34.vtvprime.vn/hls/VINHLONG3/03.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png",THVL4 HD | Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png",THVL4 HD | Vĩnh Long
 https://liveh34.vtvprime.vn/hls/VINHLONG4/03.m3u8
 
 # --- Nhóm TV VIETNAM 🇻🇳 ---
 
-#EXTINF:-1 tvg-id="angiang2" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/15/1751358776543/87a0d91f8e5a_640_360.png",ATV2 HD | An Giang
+#EXTINF:-1 tvg-id="angiang2" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/15/1751358776543/87a0d91f8e5a_640_360.png",ATV2 HD | An Giang
 https://liveh34.vtvprime.vn/hls/ANGIANGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png",H1 HD | Hà Nội
+#EXTINF:-1 tvg-id="hanoi1" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png",H1 HD | Hà Nội
 https://liveh34.vtvprime.vn/hls/HANOI1TV/03.m3u8
 
-#EXTINF:-1 tvg-id="haiphong3" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_640_360.png",THP3 HD | Hải Phòng
+#EXTINF:-1 tvg-id="haiphong3" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_640_360.png",THP3 HD | Hải Phòng
 https://liveh34.vtvprime.vn/hls/HAIDUONGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png",BTV1 HD | Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV1_BinhDuong.png",BTV1 HD | Bình Dương
 https://liveh34.vtvprime.vn/hls/BINHDUONGTV/01.m3u8
 
-#EXTINF:-1 tvg-id="vungtau" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png",BRT HD | TP.HCM
+#EXTINF:-1 tvg-id="vungtau" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BRT_BaRiaVungTau.png",BRT HD | TP.HCM
 https://liveh34.vtvprime.vn/hls/VUNGTAUTV/03.m3u8
 
-#EXTINF:-1 tvg-id="bacninh" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png",BTV HD | Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BTV_BacNinh.png",BTV HD | Bắc Ninh
 https://liveh34.vtvprime.vn/hls/BACGIANGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="dongthap1" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png",THĐT1 HD | Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap1" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/THDT1_DongThap.png",THĐT1 HD | Đồng Tháp
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/03.m3u8
 
-#EXTINF:-1 tvg-id="khanhhoa" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png",KTV HD | Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/KTV_KhanhHoa.png",KTV HD | Khánh Hòa
 https://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
 
-#EXTINF:-1 tvg-id="quangninh1" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV1_QuangNinh.png",QTV1 HD | Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh1" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV1_QuangNinh.png",QTV1 HD | Quảng Ninh
 https://liveh12.vtvprime.vn/hls/QUANGNINHTV/03.m3u8
 
-#EXTINF:-1 tvg-id="quangninh3" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV3_QuangNinh.png",QTV3 HD | Quảng Ninh
+#EXTINF:-1 tvg-id="quangninh3" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/QTV3_QuangNinh.png",QTV3 HD | Quảng Ninh
 https://liveh34.vtvprime.vn/hls/QUANGNINH3/03.m3u8
 
-#EXTINF:-1 tvg-id="thaibinh" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD | Thái Bình
+#EXTINF:-1 tvg-id="thaibinh" group-title="NGUYEN 🇻🇳" tvg-logo="https://i.imgur.com/fP7B6A4.png",TBTV HD | Thái Bình
 https://liveh34.vtvprime.vn/hls/THAIBINHTV/03.m3u8
 
-#EXTINF:-1 tvg-id="thainguyen" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png",TN HD | Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TN_ThaiNguyen.png",TN HD | Thái Nguyên
 https://liveh34.vtvprime.vn/hls/THAINGUYENTV/03.m3u8
 
-#EXTINF:-1 tvg-id="tayninh2" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
+#EXTINF:-1 tvg-id="tayninh2" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
 https://liveh34.vtvprime.vn/hls/TAYNINHTV/03.m3u8
 
-#EXTINF:-1 tvg-id="hue" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png",HueTV HD | Huế
+#EXTINF:-1 tvg-id="hue" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HueTv.png",HueTV HD | Huế
 https://liveh12.vtvprime.vn/hls/HUE/03.m3u8
 
-#EXTINF:-1 tvg-id="hungyen" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png",HY HD | Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/HY_HungYen.png",HY HD | Hưng Yên
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/03.m3u8
 
-#EXTINF:-1 tvg-id="hatinh" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png",BHTTV HD | Hà Tĩnh
+#EXTINF:-1 tvg-id="hatinh" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/BHTTV_HaTinh.png",BHTTV HD | Hà Tĩnh
 https://liveh34.vtvprime.vn/hls/HATINH/03.m3u8
 
-#EXTINF:-1 tvg-id="ninhbinh" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NBTV_NinhBinh.png",NBTV HD | Ninh Bình
+#EXTINF:-1 tvg-id="ninhbinh" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NBTV_NinhBinh.png",NBTV HD | Ninh Bình
 https://liveh34.vtvprime.vn/hls/NINHBINHTV/03.m3u8
 
-#EXTINF:-1 tvg-id="nghean" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NTV_NgheAn.png",NTV HD | Nghệ An
+#EXTINF:-1 tvg-id="nghean" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/NTV_NgheAn.png",NTV HD | Nghệ An
 https://liveh12.vtvprime.vn/hls/NGHEANTV/03.m3u8
 
-#EXTINF:-1 tvg-id="phutho" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/PTV_PhuTho.png",PTV HD | Phú Thọ
+#EXTINF:-1 tvg-id="phutho" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/PTV_PhuTho.png",PTV HD | Phú Thọ
 https://liveh34.vtvprime.vn/hls/PHUTHOTV/03.m3u8
 
-#EXTINF:-1 tvg-id="danang1" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
+#EXTINF:-1 tvg-id="danang1" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
 https://liveh12.vtvprime.vn/hls/DANANGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="danang2" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
+#EXTINF:-1 tvg-id="danang2" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/DiaPhuong/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
 https://liveh34.vtvprime.vn/hls/DANANG2/04.m3u8
 
 # --- Nhóm TV VIETNAM 🇻🇳 ---
 
-#EXTINF:-1 tvg-id="boxmovie1" tvg-group-logo="https://bom.so/jQ5tOC" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png",Box Movie 1 HD
+#EXTINF:-1 tvg-id="boxmovie1" tvg-group-logo="https://bom.so/jQ5tOC" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxMovie1.png",Box Movie 1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HollywoodClassics.png",Hollywood Classics HD
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HollywoodClassics.png",Hollywood Classics HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
-#EXTINF:-1 tvg-id="inthebox" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/InTheBoxChannel.png",TV VIETNAM 🇻🇳 HD
+#EXTINF:-1 tvg-id="inthebox" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/InTheBoxChannel.png",TV VIETNAM 🇻🇳 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/INTHEBOX/manifest.mpd
 
-#EXTINF:-1 tvg-id="boxhits" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxHits.png",Box Hits HD
+#EXTINF:-1 tvg-id="boxhits" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/BoxHits.png",Box Hits HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
-#EXTINF:-1 tvg-id="man" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MAN.png",Man HD
+#EXTINF:-1 tvg-id="man" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MAN.png",Man HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/MAN/manifest.mpd
 
-#EXTINF:-1 tvg-id="musicbox" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MusicBox.png",Music Box HD
+#EXTINF:-1 tvg-id="musicbox" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/MusicBox.png",Music Box HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/MUSICBOX/manifest.mpd
 
-#EXTINF:-1 tvg-id="drfithd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/DrFit.png",Dr.Fit HD
+#EXTINF:-1 tvg-id="drfithd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/DrFit.png",Dr.Fit HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/DF/manifest.mpd
 
-#EXTINF:-1 tvg-id="happykids" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HappyKids.png",Happy Kids HD
+#EXTINF:-1 tvg-id="happykids" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/HappyKids.png",Happy Kids HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/HK/manifest.mpd
 
-#EXTINF:-1 tvg-id="planetearthhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/PlanetEarth.png",Planet Earth HD
+#EXTINF:-1 tvg-id="planetearthhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/PlanetEarth.png",Planet Earth HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/PE/manifest.mpd
 
-#EXTINF:-1 tvg-id="woman" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/WOMAN.png",Woman HD
+#EXTINF:-1 tvg-id="woman" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/InTheBox/WOMAN.png",Woman HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -553,176 +553,197 @@ https://livevlisctcdnw.seenow.vn/livesnv2/WO/manifest.mpd
 
 # --- Nhóm TV VIETNAM 🇻🇳 ---
 
-#EXTINF:-1 tvg-id="cna" tvg-group-logo="" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cna.png",CNA
+#EXTINF:-1 tvg-id="cna" tvg-group-logo="" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cna.png",CNA
 https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
 
-#EXTINF:-1 tvg-id="outdoorhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Outdoor.png",Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Outdoor.png",Outdoor Channel HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/OUTDOORCHANNEL/manifest.mpd
 
-#EXTINF:-1 tvg-id="hgtv" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HGTV.png",HGTV HD
+#EXTINF:-1 tvg-id="hgtv" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/HGTV.png",HGTV HD
 https://liveh34.vtvprime.vn/hls/HGTV/03.m3u8
 
-#EXTINF:-1 tvg-id="cnbc" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cnbc.png",CNBC 
+#EXTINF:-1 tvg-id="cnbc" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/cnbc.png",CNBC 
 https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
 
-#EXTINF:-1 tvg-id="nhkworld" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/NHKWorldJapan.png",NHK World Japan HD
+#EXTINF:-1 tvg-id="nhkworld" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/NHKWorldJapan.png",NHK World Japan HD
 https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/afn.png",Asian Food Network HD
+#EXTINF:-1 tvg-id="afnhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/afn.png",Asian Food Network HD
 https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
-#EXTINF:-1 tvg-id="dw" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DW.png",DW HD
+#EXTINF:-1 tvg-id="dw" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DW.png",DW HD
 https://liveh12.vtvprime.vn/hls/DW/03.m3u8
 
-#EXTINF:-1 tvg-id="arirang" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/arirang.png",Arirang HD
+#EXTINF:-1 tvg-id="arirang" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/arirang.png",Arirang HD
 https://liveh12.vtvprime.vn/hls/ARIRANG/03.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/France24Eng.png",France 24 HD
+#EXTINF:-1 tvg-id="france24eng" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/France24Eng.png",France 24 HD
 https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 
-#EXTINF:-1 tvg-id="kix" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Kix.png",KIX HD
+#EXTINF:-1 tvg-id="kix" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Kix.png",KIX HD
 https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Tv5MondeAsie.png",TV5Monde Asie HD
+#EXTINF:-1 tvg-id="tv5monde" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/Tv5MondeAsie.png",TV5Monde Asie HD
 https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 
-#EXTINF:-1 tvg-id="kbsworld" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/KBSWorld.png",KBS World HD
+#EXTINF:-1 tvg-id="kbsworld" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/KBSWorld.png",KBS World HD
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 
-#EXTINF:-1 tvg-id="davinci" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DaVinci.png",Da Vinci HD
+#EXTINF:-1 tvg-id="davinci" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/DaVinci.png",Da Vinci HD
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 
-#EXTINF:-1 tvg-id="history" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/History.png",History HD
+#EXTINF:-1 tvg-id="history" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/History.png",History HD
 https://liveh34.vtvprime.vn/hls/HISTORY/index.m3u8
 
 # --- Nhóm TV VIETNAM 🇻🇳 ---
 
-#EXTINF:-1 tvg-id="abcaustralia" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/ABCAustralia.png", ABC Australia HD
+#EXTINF:-1 tvg-id="abcaustralia" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/ABCAustralia.png", ABC Australia HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BvjRpv6v+9q5Kt80fntGnA","kid":"mgmnPsHcNIWE4vEw4n2mZw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="animalhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AnimalPlanet.png", Animal Planet HD
+#EXTINF:-1 tvg-id="animalhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AnimalPlanet.png", Animal Planet HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HVOI4HgUFevOyZFPWtdYdQ","kid":"7G8HLHElN3qbwK5hWYCV9A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="axnhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AXN.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/AXN.png", AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bxwJwDXqs2Mj1g0UVNs9IA","kid":"nSn4fv3sPJ+rNo9ySmKtDg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cbeebies" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCCbeebies.png", BBC Cbeebies HD
+#EXTINF:-1 tvg-id="cbeebies" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCCbeebies.png", BBC Cbeebies HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcearth" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCEarth.png", BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCEarth.png", BBC Earth HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8/oP4805pS9O79Nv9xYeiQ","kid":"UBSUGixCN5iAte33IwTBZQ"}],"type":"temporary"}
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=5014941a2c42379880b5edf72304c165:f3fa0fe3cd39a52f4eefd36ff7161e89
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcearth.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCLifeStyle.png", BBC Lifestyle HD
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCLifeStyle.png", BBC Lifestyle HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I+jF8v4gKQasLWVU2VJymQ","kid":"WLlJmG7RMpS8AbDzMKvFJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
 https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCNews.png", BBC World News HD
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/BBCNews.png", BBC World News HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"03S485kEv1cmieo0euhlkQ","kid":"x7pGCG3aNFqSnim/FV5FnA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="bloomberg" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Bloomberg.png", Bloomberg HD
+#EXTINF:-1 tvg-id="bloomberg" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Bloomberg.png", Bloomberg HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eg+MPHLg//+BHVNMkpxXwg","kid":"EHE5P4/CN/OpooAoFCEQ9w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="boomerang" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
+#EXTINF:-1 tvg-id="boomerang" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cartoonito.png", Cartoonito HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sfDXWekUNp2ziLOw3IFZcQ","k":"VnjTF-FwB6iKm5U55FJlEg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=b1f0d759e914369db388b3b0dc815971:5678d317e17007a88a9b9539e4526512
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cartoonhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CartoonNetwork.png", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CartoonNetwork.png", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Cinemax.png", Cinemax HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key= {"keys":[{"kty":"oct","k":"6YaPX0c9D9hpnt5I1THCsA","kid":"rLTCNHEGMyetxzLig8CEfw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CinemaWorld.png", Cinema World HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CinemaWorld.png", Cinema World HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cnn" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CNN.png", CNN HD
+#EXTINF:-1 tvg-id="cnn" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/CNN.png", CNN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gs9Y/41M2HwtPBLSIkjvsQ","kid":"cUzI7QWgOruaxhvUu9HYoA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Discovery.png", Discovery HD
+#EXTINF:-1 tvg-id="discoveryhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/Discovery.png", Discovery HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vqWgcVfgxNF7Eas5lRf5Ug","kid":"60Fg6lU6Mh2JlVPk55b+wg"}],"type":"temporary"}
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DiscoveryAsia.png", Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DiscoveryAsia.png", Discovery Asia HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eI4oNfuYVortL0e73AkVFQ","kid":"k0kHsTS+OWOmJjpFOEaSTA"}],"type":"temporary"}
-https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dmax" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DMAX.png", DMAX HD
+#EXTINF:-1 tvg-id="dmax" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DMAX.png", DMAX HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DGTM+5eOc5C9MzRAdUkq7A","kid":"U7JvkErgOiC1ZHfPucXcog"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=53b26f904ae03a20b56477cfb9c5dca2:0c64ccfb978e7390bd33344075492aec
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="dreamworks" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD
+#EXTINF:-1 tvg-id="dreamworks" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/DreamWorks.png", Dreamworks HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WTKPYh1WdnvF/5QEqJQGgw","kid":"Z9riBSfGPa2qrmCaqRV3yw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=67dae20527c63dadaaae609aa91577cb:59328f621d56767bc5ff9404a8940683
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="fashionhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/FashionTV.png", Fashion TV HD
+#EXTINF:-1 tvg-id="fashionhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/FashionTV.png", Fashion TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MMNhPpsG4PfMIBAU8xv12A","kid":"wdnyVwECNQi/pnN+OoxwAQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ftv.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="hbohd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/HBO.png", HBO HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="tlchd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/TLC.png", TLC HD
+#EXTINF:-1 tvg-id="tlchd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/TLC.png", TLC HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fKm/A2I/d7Xi8W3wtT8nTQ","kid":"tpCGKXMmOa2kgUpiCCltnA"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
+https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="warnertvhd" group-title="TV VIETNAM 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/WarnerTV.png", Warner TV HD
+#EXTINF:-1 tvg-id="warnertvhd" group-title="NGUYEN 🇻🇳" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/MSky/WarnerTV.png", Warner TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=086d09a40bff3a00aa6dd4dbaf9c13b2:34f1908cfe2e05ee060046d40f14aec9
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
