@@ -22,17 +22,18 @@ https://livevlisctcdnw.seenow.vn/mean/ANVIEN/manifest.mpd
 # --- Nhóm VTV ---
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (VTV Prime)
-https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
+#https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
+https://liveh12byt.vtvprime.vn/hls/VTV1_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (On Plus)
 #https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_640_360.png",VTV2 HD
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://liveh12byt.vtvprime.vn/hls/VTV2_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_640_360.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vietanhtv.id.vn/tv360/3/index.m3u8
+https://liveh12byt.vtvprime.vn/hls/VTV3_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",VTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -40,7 +41,8 @@ https://vietanhtv.id.vn/tv360/108/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_640_360.png",VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vietanhtv.id.vn/tv360/110/index.m3u8
+#https://vietanhtv.id.vn/tv360/110/index.m3u8
+https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcantho" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2024/12/06/22/1733500074875/e2880c36f771_640_360.png",VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -61,7 +63,7 @@ https://vietanhtv.id.vn/tv360/8/index.m3u8
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_640_360.png",Vietnam Today HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=9951
+https://liveh12byt.vtvprime.vn/hls/VIETNAMTODAY/03.m3u8
 
 # --- Nhóm HTV ---
 
