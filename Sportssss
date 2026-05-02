@@ -1721,110 +1721,206 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="tv360plus1" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png",360 C1 CHÂU ÂU
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AMC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
-https://vietanhtv.id.vn/tv360/2554/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus2" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png",360 THỂ THAO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus2
-https://vietanhtv.id.vn/tv360/1/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/axn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus3" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png",360 BÓNG ĐÁ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
-https://vietanhtv.id.vn/tv360/148/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_channel_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus4" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_640_360.png",360 BUNDESLIGA
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Science HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus4
-https://vietanhtv.id.vn/tv360/2458/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_science_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus5" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png",360 CUỒNG NHIỆT
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus5
-https://vietanhtv.id.vn/tv360/9867/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_turbo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus6" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png",360 SÂN CỎ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo HD (Mirror)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus6
-https://vietanhtv.id.vn/tv360/9868/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/discovery_turbo_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus7" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png",360 PHÚT 90
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Turbo 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus7
-https://vietanhtv.id.vn/tv360/9869/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="tv360plus8" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png",360 GOLF
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus8
-https://vietanhtv.id.vn/tv360/9870/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360plus9" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png",360 GOAL
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9887/index.m3u8
-
-#EXTINF:-1 tvg-id="tv360plus10" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png",360 V-SPORT
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9957/index.m3u8
-
-#EXTINF:-1 tvg-id="tv360plus11" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png",360 NHỊP ĐẬP
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9958/index.m3u8
-
-#EXTINF:-1 tvg-id="tv360plus12" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png",360 CÔNG THỨC 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ESPN 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus12
-https://vietanhtv.id.vn/tv360/10001/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/espn_2_hd/default/index.mpd
 
-#EXTINF:-1 group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_640_360.png",TV360
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9904/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_hd/default/index.mpd
 
-#EXTINF:-1 group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/11/27/14/1764229351401/ed80e937bd25_640_360.png",TV360 LIVESTREAM
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9888/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FX HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fx_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360phimviet" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png",360 PHIM VIỆT
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9902/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", MTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/mtv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360aumy" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",360 PHIM ÂU MỸ
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9903/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", NFL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nfl_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv360hoathinh" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png",360 HOẠT HÌNH
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/9934/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Panico HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/18/1767180734794/7cda83f18b5d_640_360.png",360 PHIM HOA NGŨ
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/10008/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Sony HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
 
-#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png",360 HÀNH ĐỘNG CHÂU Á
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/10009/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", HGTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/hgtv_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/12/31/19/1767185202351/540d7e229911_640_360.png",360 K-SERIES
-#EXTVLCOPT:http-user-agent=TV360/5.6 (Linux;Android 11; K) ExoPlayerLib/2.18.2
-https://vietanhtv.id.vn/tv360/10010/index.m3u8
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", ID HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/id_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Multipremier HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/multipremier_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", NBA TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TCM HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tcm_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", TLC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tlc_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Antena 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/antena_3_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", AMC Series HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/amc_series_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", History 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/history_2_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Hola TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/hola_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Lifetime HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/lifetime_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nick Jr HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nick_jr_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Tooncast HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tooncast_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cartoon_network_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Discovery Kids HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/discovery_kids_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Disney Jr HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", History Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/history_channel_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nick HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nick_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Azteca Uno HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/azteca_uno_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Azteca 7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/azteca_7_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", EXA TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=109e7fcb4970436a9e4628090c208451:0ab1bc308c773d627f5a511f0fffc0e4
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/exa_tv_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Nat Geo HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nat_geo_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Cinema Platino HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinema_platino_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", Europa Europa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/europa_europa_hd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://s37328.pcdn.co/wp-content/uploads/2021/07/megacable-welcomes-edye__thumb.jpg" group-title="XView", FOX Mas HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51710c9c227a4637991466ece1b3550e:831bfae1e16f4cc2cda5d620e6d1e96a
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/fox_mas_hd/default/index.mpd
