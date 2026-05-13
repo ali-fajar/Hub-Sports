@@ -655,31 +655,116 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bcj
 #EXTINF:-1 group-title="♦️ SPORTS ♦️ AMERIKA SERIKAT" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,w_1100,h_550,x_0,y_81/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="PSN1.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN1.380a638f.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-#https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+#EXTINF:-1 tvg-id="ArenaEsport.rs" tvg-name="Arena Esport FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenaesportrs.png" group-title=" ♦️ SPORTS CROATIA ♦️ ",Arena Esport FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/129849
 
-#EXTINF:-1 tvg-id="PSN2.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-#https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+#EXTINF:-1 tvg-id="ArenaFight.rs" tvg-name="Arena Fight FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenafightrs.jpg" group-title=" ♦️ SPORTS CROATIA ♦️ ",Arena Fight FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/95395
 
-#EXTINF:-1 tvg-id="PSN2.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-#https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+#EXTINF:-1 tvg-id="ArenaSport1BiH.bh" tvg-name="Arena Premium 1 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/arenapremium1rs.jpg" group-title="♦️ SPORTS CROATIA ♦️ ",Arena Premium 1 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/129791
 
-#EXTINF:-1 tvg-id="PSN4.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN4.ca979c65.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.122 Mobile Safari/537.36
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 tvg-id="PSN5.mn" tvg-name="" tvg-logo="https://www.psn.mn/img/PSN5.b3e98409.png" group-title="♦️ SPORTS ♦️ RUSIA",PSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.122 Mobile Safari/537.36
-#https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-id="ArenaPremium1.rs" tvg-name="Arena Premium 1 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenapremium1rs.jpg" group-title="♦️ SPORTS CROATIA ♦️",Arena Premium 1 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
 
+#EXTINF:-1 tvg-id="ArenaSportPremium2.bh" tvg-name="Arena Premium 2 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/arenapremium2rs.jpg" group-title="♦️ SPORTS CROATIA ♦️",Arena Premium 2 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/129792
+
+#EXTINF:-1 tvg-id="ArenaPremium2.rs" tvg-name="Arena Premium 2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenapremium2rs.jpg" group-title="♦️ SPORTS CROATIA ♦️",Arena Premium 2 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92239
+
+#EXTINF:-1 tvg-id="ArenaSportPremium3.bh" tvg-name="Arena Premium 3 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/arenapremium3rs.jpg" group-title="♦️ SPORTS CROATIA ♦️",Arena Premium 3 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/129793
+
+#EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="Arena Premium 3 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenapremium3rs.jpg" group-title="♦️ SPORTS CROATIA ♦️",Arena Premium 3 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92240
+
+#EXTINF:-1 tvg-id="ArenaPremium4.rs" tvg-name="Arena Premium 4 FHD RS" tvg-logo="" group-title="SPORTS",Arena Premium 4 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/163386
+
+#EXTINF:-1 tvg-id="ArenaPremium5.rs" tvg-name="Arena Premium 5 FHD RS" tvg-logo="" group-title="SPORTS",Arena Premium 5 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/163387
+
+#EXTINF:-1 tvg-id="ArenaSport1BiH.bh" tvg-name="Arena Sport 1 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport1hrexyu.jpg" group-title="SPORTS",Arena Sport 1 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/87961
+
+#EXTINF:-1 tvg-id="ArenaSport1x2.rs" tvg-name="Arena Sport 1x2 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arena1x2rs.jpg" group-title="SPORTS",Arena Sport 1x2 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/108882
+
+#EXTINF:-1 tvg-id="ArenaSport2.bh" tvg-name="Arena Sport 2 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="SPORTS",Arena Sport 2 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130659
+
+#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="SPORTS",Arena Sport 2 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17914
+
+#EXTINF:-1 group-title="SPORTS" audio-track="rus", Arena Sport 2 HD
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="Arena Sport 2 HD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="SPORTS",Arena Sport 2 HD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/1437
+
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="SPORTS",Arena Sport 2 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/3183
+
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2 RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport2hrexyu.jpg" group-title="SPORTS",Arena Sport 2 RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/52132
+
+#EXTINF:-1 tvg-id="ArenaSport3.bh" tvg-name="Arena Sport 3 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="SPORTS",Arena Sport 3 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130660
+
+#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="Arena Sport 3 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="SPORTS",Arena Sport 3 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17916
+
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport3hrexyu.jpg" group-title="SPORTS",Arena Sport 3 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/3184
+
+#EXTINF:-1 tvg-id="ArenaSport4.bh" tvg-name="Arena Sport 4 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="SPORTS",Arena Sport 4 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130661
+
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="Arena Sport 4 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="SPORTS",Arena Sport 4 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17915
+
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport4hrexyu.jpg" group-title="SPORTS",Arena Sport 4 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/3185
+
+#EXTINF:-1 tvg-id="ArenaSport5.bh" tvg-name="Arena Sport 5 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="SPORTS",Arena Sport 5 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130662
+
+#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="SPORTS",Arena Sport 5 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/19005
+
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="Arena Sport 5 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="SPORTS",Arena Sport 5 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/3186
+
+#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="Arena Sport 5 HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport5hrexyu.jpg" group-title="SPORTS",Arena Sport 5 HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/13827
+
+#EXTINF:-1 tvg-id="ArenaSport6.bh" tvg-name="Arena Sport 6 FHD BA" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="SPORTS",Arena Sport 6 FHD BA
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/130663
+
+#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-name="Arena Sport 6 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="SPORTS",Arena Sport 6 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/13828
+
+#EXTINF:-1 tvg-id="ArenaSport6.rs" tvg-name="Arena Sport 6 HD RS" tvg-logo="https://picon-13398.kxcdn.com/areanasport6hrexyu.jpg" group-title="SPORTS",Arena Sport 6 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/114826
+
+#EXTINF:-1 tvg-id="ArenaSport7.hr" tvg-name="Arena Sport 7 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/arenasport7rshr.jpg" group-title="SPORTS",Arena Sport 7 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/88712
+
+#EXTINF:-1 tvg-id="ArenaSport7.rs" tvg-name="Arena Sport 7 HD RS" tvg-logo="https://picon-13398.kxcdn.com/arenasport7rshr.jpg" group-title="SPORTS",Arena Sport 7 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/114827
+
+#EXTINF:-1 tvg-id="ArenaSport8.hr" tvg-name="Arena Sport 8 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/arenasport8rshr.jpg" group-title="SPORTS",Arena Sport 8 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/88713
+
+#EXTINF:-1 tvg-id="ArenaSport8.rs" tvg-name="Arena Sport 8 HD RS" tvg-logo="https://picon-13398.kxcdn.com/arenasport8rshr.jpg" group-title="SPORTS",Arena Sport 8 HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/114828
+
+#EXTINF:-1 tvg-id="ArenaSport9.hr" tvg-name="Arena Sport 9 FHD HR" tvg-logo="https://picon-13398.kxcdn.com/arenasport9rshr.jpg" group-title="SPORTS",Arena Sport 9 FHD HR
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/88714
+
+#EXTINF:-1 tvg-id="ArenaSport9.rs" tvg-name="Arena Sport 9 FHD RS" tvg-logo="https://picon-13398.kxcdn.com/arenasport9rshr.jpg" group-title="SPORTS",Arena Sport 9 FHD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/131320
 
 
 #EXTINF:-1 group-title="ALL SPORTS🔥" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
