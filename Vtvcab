@@ -23,7 +23,7 @@ https://livevlisctcdnw.seenow.vn/mean/ANVIEN/manifest.mpd
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (VTV Prime)
 #https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
-https://liveh12byt.vtvprime.vn/hls/VTV1_HD/03.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=2
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="NGUYEN 🇻🇳" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_640_360.png",VTV1 HD (On Plus)
 #https://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
